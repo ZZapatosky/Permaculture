@@ -1,0 +1,307 @@
+# Query: logo-dark
+# ContextLines: 1
+
+69 results - 27 files
+
+about.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+  224                      <div class="canvas-logo">
+  225:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  226                      </div>
+
+cart.html:
+   60                          <div class="logo-part">
+   61:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                          </div>
+
+   99                      <div class="logo-part md-hidden">
+  100:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                      </div>
+
+  223                  <div class="canvas-logo">
+  224:                     <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  225                  </div>
+
+checkout.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  223                      <div class="canvas-logo">
+  224:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  225                      </div>
+
+contact.html:
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  223                      <div class="canvas-logo">
+  224:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  225                      </div>
+
+gallery-style.html:
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  224                      <div class="canvas-logo">
+  225:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  226                      </div>
+
+index-onepage1.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+  168                      <div class="canvas-logo">
+  169:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  170                      </div>
+
+index-onepage2.html:
+  131                      <div class="canvas-logo">
+  132:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  133                      </div>
+
+index-onepage3.html:
+   66                                  <a href="index.html">
+   67:                                     <img src="images/FullLogo.png" alt="logo"></a>
+   68                              </div>
+
+  132                      <div class="canvas-logo">
+  133:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  134                      </div>
+
+index-onepage4.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+  101                              <div class="logo-part md-hidden">
+  102:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  103                              </div>
+
+  171                      <div class="canvas-logo">
+  172:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  173                      </div>
+
+index.html:
+  172                      <div class="canvas-logo">
+  173:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  174                      </div>
+
+index2.html:
+   62                                  <div class="logo-area">
+   63:                                     <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   64                                  </div>
+
+  187                      <div class="canvas-logo">
+  188:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  189                      </div>
+
+index3.html:
+   66                                  <a href="index.html">
+   67:                                     <img src="images/FullLogo.png" alt="logo"></a>
+   68                              </div>
+
+  188                      <div class="canvas-logo">
+  189:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  190                      </div>
+
+index4.html:
+  122                                  <div class="logo-area">
+  123:                                     <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  124                                  </div>
+
+  279                                  <div class="logo-area text-center">
+  280:                                     <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  281                                  </div>
+
+  333                      <div class="canvas-logo">
+  334:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  335                      </div>
+
+my-account.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  223                      <div class="canvas-logo">
+  224:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  225                      </div>
+
+price-table.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  223                      <div class="canvas-logo">
+  224:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  225                      </div>
+
+project.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  224                      <div class="canvas-logo">
+  225:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  226                      </div>
+
+services-box1.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  226                      <div class="canvas-logo">
+  227:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  228                      </div>
+
+services-box2.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  226                      <div class="canvas-logo">
+  227:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  228                      </div>
+
+services-box3.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  226                      <div class="canvas-logo">
+  227:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  228                      </div>
+
+services-box4.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  226                      <div class="canvas-logo">
+  227:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  228                      </div>
+
+services-box5.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  226                      <div class="canvas-logo">
+  227:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  228                      </div>
+
+services-one.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+  224                      <div class="canvas-logo">
+  225:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  226                      </div>
+
+shop.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  223                      <div class="canvas-logo">
+  224:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  225                      </div>
+
+single-shop.html:
+   60                          <div class="logo-part">
+   61:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                          </div>
+
+   99                      <div class="logo-part md-hidden">
+  100:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                      </div>
+
+  223                  <div class="canvas-logo">
+  224:                     <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  225                  </div>
+
+slider-style.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  224                      <div class="canvas-logo">
+  225:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  226                      </div>
+
+team-grid.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  223                      <div class="canvas-logo">
+  224:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  225                      </div>
+
+team-slider.html:
+   60                              <div class="logo-part">
+   61:                                 <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+   62                              </div>
+
+   99                          <div class="logo-part md-hidden">
+  100:                             <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  101                          </div>
+
+  224                      <div class="canvas-logo">
+  225:                         <a href="index.html"><img src="images/FullLogo.png" alt="logo"></a>
+  226                      </div>
